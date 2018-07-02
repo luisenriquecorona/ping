@@ -1,0 +1,2 @@
+# ping
+Ping server http
